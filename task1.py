@@ -111,4 +111,5 @@ def main():
             copy_row(file_name, new_file_name, row_copy)
 
 
-main()
+if __name__ == '__main__':
+    main()
